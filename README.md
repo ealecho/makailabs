@@ -1,4 +1,4 @@
-## makAIlabs Talk | Accesible Data Science and Machine Learning using JavaScript; makAIlabs Talk
+## makAIlabs Talk | Accesible Data Science and Machine Learning using JavaScript
 Makerere AI Research Labs Presentation September 8 2022
 
 
