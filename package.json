@@ -1,0 +1,9 @@
+{
+  "name": "makaisession",
+  "version": "0.1",
+  "description": "Makerere AI Labs Presentation Materials",
+  "main": "index.js",
+  "repository": "https://github.com/ealecho/makailabs.git",
+  "author": "Alecho Edwin",
+  "license": "MIT"
+}
